@@ -14,5 +14,6 @@ class From(StatesGroup):
     new_people_from = State()
     link_form = State()
     final_form = State()
+    change_city = State()
 
 
